@@ -1,0 +1,17 @@
+
+
+The data file ehresp_2015.dat (2015 ATUS Eating & Health Module Respondent file) contains 37 variables and 10,626 observations. 
+
+For more information on the 2015 ATUS Eating & Health Module Respondent file, please see the 2015 ATUS Eating & Health Module Data Dictionary (available at: http://www.bls.gov/tus/ehmintcodebk1416.pdf).   
+
+In addition to the data file, three computer programs are contained in ehresp_2015.zip.  If you have SPSS, SAS, or Stata software, you may use these programs to read the data into your statistical software package.  The programs include variable and value labels for most variables.  For information about unlabeled values, please refer to the data dictionary.
+
+The file "ehresp_2015.sps" reads the data into SPSS.
+
+The file "ehresp_2015.sas" reads the data into SAS.
+
+The file "ehresp_2015.do" reads the data into Stata.
+
+If you have SAS, SPSS, or Stata software, open the corresponding program, edit the infile (in SAS), file (in SPSS) or insheet (in Stata) statement to reference the data file on your computer, and run the program. 
+
+Citation: U.S. Department of Agriculture (USDA), Economic Research Service (ERS). 2015 Eating & Health Module: Machine-readable microdata files, supplement to the Bureau of Labor Statistics (BLS) 2015 American Time Use Survey, March 2017.
