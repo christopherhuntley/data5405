@@ -16,6 +16,5 @@ _Course materials for DATA 5405 Python Fundamentals_
    If you find that this class isn't for you then please consult with Phil Maymin at `pmaymin@fairfield.edu` or Leanne De Los Santos at `ldelossantos@fairfield.edu` to find a better fit for you. 
 3. **Complete Lesson 0 by July 12.**
     * Open the DATA 5405 class in [Google Classroom](. (You should already be enrolled. If not then please let us know.)
-    * Under Coursework, Open "Lesson 0." If asked, then open as a Google Colab file. 
-    * When done with Lesson 0, be sure to Turn It In. 
-    * 
+    * Under Coursework, Open "Lesson 0." If asked, then "Open with Google Colaboratory."
+    * Let us know if you have any questions. 
