@@ -1,7 +1,7 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" width="180px" align="right">
 
-# BUAN 5405 Python Fundamentals
-*Spring 2021*
+# DATA 5405 Python Fundamentals
+*Summer 2021*
 ## Course Description
 This course is an introduction to Python, with an emphasis on general programming concepts (structure, logic, data, etc.) that apply to just about any general purpose programming language.  Starting with a review of fundamental programming concepts, the course uses short lessons, quizzes, and coding challenges to cover the basics of how Python is used in a professional Business Analytics setting. The course concludes with a final project designed to demonstrate proficiency. Prerequisites: graduate standing or permission of the instructor.   
 
@@ -103,50 +103,49 @@ After scaling, the expected grade distribution is approximately:
 | Module | Topic/Assignment                 | Release | Deadline |
 | :--: |----------------------------------|-------: |--------: |
 | **0**    | **Course Onboarding**            |         |          |
-|      | [Getting Started](https://christopherhuntley.github.io/BUAN5405-docs/)                  | Jan 19  | Jan 25   |
-|      | Lesson 0: Course Introduction    |  Jan 19       | Jan 25   |
+|      | [Getting Started](https://christopherhuntley.github.io/data5405/)                  | July 6  | July 12   |
+|      | Lesson 0: Course Introduction    |  July 7       | July 12  |
 | **1**    | **Getting Started**              |         |          |
-|      | Reading: Py4E Chapters 1 & 2          |         | Feb 1  |
-|      | Lesson 1: Python Preliminaries   |  Jan 19      | Feb 1  |
-|      | Lesson 2: Basic Computation      |  Jan 26      | Feb 8  |
-|      | Datacamp: Python Basics |         | Feb 8  |
-|      | **_Quiz 1_**                           | Feb 8 | Feb 9  |
+|      | Reading: Py4E Chapters 1 & 2          |         | July 12  |
+|      | Lesson 1: Python Preliminaries   |  July 8      | July 15  |
+|      | Lesson 2: Basic Computation      |  July 8      | July 18  |
+|      | Datacamp: Python Basics |         | July 18  |
+|      | **_Quiz 1_**                           | July 18 | July 19  |
 | **2**    | **Structured Logic**             |         |          |
-|      | Reading: Py4E Chapter 3          |         | Feb 15  |
-|      | Lesson 3: Conditional Execution  |  Feb 1      | Feb 15  |
-|      | DataCamp: Python Lists           |         | Feb 15  |
-|      | Reading: Py4E Chapter 4          |         | Feb 22  |
-|      | Lesson 4: Functions              |  Feb 8      | Feb 22  |
-|      | DataCamp: Functions and Packages |         | Feb 22  |
-|      | Reading: Py4E Chapter 5          |         | Mar 1  |
-|      | Lesson 5: Iteration              |  Feb 15       | Mar 1  |
-|      | **_Quiz 2_**                           | Mar 1 | Mar 2  |
+|      | Reading: Py4E Chapter 3          |         | July   |
+|      | Lesson 3: Conditional Execution  |  July 12      | July 21  |
+|      | DataCamp: Python Lists           |         | July 22  |
+|      | Reading: Py4E Chapter 4          |         | July 22  |
+|      | Lesson 4: Functions              |  July 15      | July 23  |
+|      | DataCamp: Functions and Packages |         | July 23  |
+|      | Reading: Py4E Chapter 5          |         | Jul 25  |
+|      | Lesson 5: Iteration              |  July 18       | July 25  |
+|      | **_Quiz 2_**                           | July 25 | July 26  |
 | **3**    | **Data Structures**              |         |          |
-|      | Reading: Py4E Chapter 6          |         | Mar 8  |
-|      | Lesson 6: Strings                |  Feb 22       | Mar 8  |
-|      | Reading: Py4E Chapter 7          |         | Mar 15  |
-|      | Lesson 7: Files                  |  Mar 1       | Mar 15  |
-|      | DataCamp: Fundamental data types |         | Mar 22  |
-|      | Reading: Py4E Chapter 8          |         | Mar 22  |
-|      | Lesson 8: Lists                  |  Mar 8       | Mar 22  |
-|      | **_Quiz 3_**                           | Mar 22 | Mar 23  |
-|      | Reading: Py4E Chapter 9          |         | Mar 29  |
-|      | DataCamp: Dictionaries -- the root of Python | | Mar 29|
-|      | Lesson 9: Dicts                  |   Mar 15      | Mar 29  |
-|      | Reading: Py4E Chapter 10         |         | Apr 11  |
-|      | Lesson 10: Tuples                |   Mar 22       | Apr 11 |
-|      | **_Quiz 4_**                           | Apr 11 | Apr 12|
+|      | Reading: Py4E Chapter 6          |         | July 28  |
+|      | Lesson 6: Strings                |  July 20       | July 28  |
+|      | Reading: Py4E Chapter 7          |         | July 29  |
+|      | Lesson 7: Files                  |  July 20       | July 30  |
+|      | DataCamp: Fundamental data types |         | July 30  |
+|      | Reading: Py4E Chapter 8          |         | August 1  |
+|      | Lesson 8: Lists                  |  July 20       | August 2  |
+|      | **_Quiz 3_**                           | August 2 | August 3  |
+|      | Reading: Py4E Chapter 9          |         | August 6  |
+|      | DataCamp: Dictionaries -- the root of Python | | August 6|
+|      | Lesson 9: Dicts                  |   July 20      | August 6  |
+|      | Reading: Py4E Chapter 10         |         | August 8  |
+|      | Lesson 10: Tuples                |   July 20       | August 8 |
+|      | **_Quiz 4_**                           | August 8 | August 9|
 | **4**    | **Advanced Data Structures**     |          |         |
-|      | DataCamp: Data ingestion & inspection |              | Apr 19|
-|      | Lesson 11: pandas  Series and DataFrames   | Mar 22  | Apr 19|
-|      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
-|      | DataCamp:  Time Series in pandas    |          | Apr 26|
-|      | Lesson 12: Odds and Ends     | Mar 22  | Apr 26|
-|      | **_Quiz 5_**                           | Apr 19 | Apr 26|
-| **5**    | **Final Project**                |  Apr 27        |  May 10  |
-|      | **_Code Submitted via Google Classroom_**        |          | May 8|
-|      | **_Walkthrough video posted on Youtube_**        |          | May 9 |
-|      | **_Peer reviews submitted via Google Forms_**      |         | May 10 |    
+|      | DataCamp: Data ingestion & inspection |              | August 12|
+|      | Lesson 11: pandas  Series and DataFrames   | July 27  | August 12|
+|      | DataCamp:  Exploratory Data Analysis    |          | August 12|
+|      | DataCamp:  Time Series in pandas    |          | August 18|
+|      | Lesson 12: Odds and Ends     | July 27  | August 18|
+|      | **_Quiz 5_**                           | August 11 | Apr 18|
+| **5**    | **Final Project**                |  August 15        |  August 18  |
+|      | **_Code Submitted via Google Classroom_**        |          | August 18|
+|      | **_Walkthrough_**        |          | August 20 | 
 
 
 
