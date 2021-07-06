@@ -2,8 +2,8 @@
 
 # DATA 5405 
 _Course materials for BUAN 5405 Python Fundamentals_   
->View as [GitHub pages](https://christopherhuntley.github.io/BUAN5405-docs/)  
->View as [GitHub repo](https://github.com/christopherhuntley/BUAN5405-docs)    
+>View as [GitHub pages](https://christopherhuntley.github.io/data5405)  
+>View as [GitHub repo](https://github.com/christopherhuntley/data5405)    
 
 ## Getting Started
 1. **Read the [syllabus](Syllabus.md)**, which covers the learning objectives and student expectations for the class. 
