@@ -1,7 +1,7 @@
 <img src="https://github.com/christopherhuntley/BUAN5405-docs/blob/master/Slides/img/Dolan.png?raw=true" style="width:180px; float:right">
 
 # DATA 5405 
-_Course materials for BUAN 5405 Python Fundamentals_   
+_Course materials for DATA 5405 Python Fundamentals_   
 >View as [GitHub pages](https://christopherhuntley.github.io/data5405)  
 >View as [GitHub repo](https://github.com/christopherhuntley/data5405)    
 
