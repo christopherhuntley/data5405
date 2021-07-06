@@ -112,7 +112,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Datacamp: Python Basics |         | July 18  |
 |      | **_Quiz 1_**                           | July 18 | July 19  |
 | **2**    | **Structured Logic**             |         |          |
-|      | Reading: Py4E Chapter 3          |         | July   |
+|      | Reading: Py4E Chapter 3          |         | July 21  |
 |      | Lesson 3: Conditional Execution  |  July 12      | July 21  |
 |      | DataCamp: Python Lists           |         | July 22  |
 |      | Reading: Py4E Chapter 4          |         | July 22  |
