@@ -118,7 +118,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 4          |         | July 22  |
 |      | Lesson 4: Functions              |  July 15      | July 23  |
 |      | DataCamp: Functions and Packages |         | July 23  |
-|      | Reading: Py4E Chapter 5          |         | Jul 25  |
+|      | Reading: Py4E Chapter 5          |         | July 25  |
 |      | Lesson 5: Iteration              |  July 18       | July 25  |
 |      | **_Quiz 2_**                           | July 25 | July 26  |
 | **3**    | **Data Structures**              |         |          |
