@@ -4,7 +4,7 @@ We will be using Slack as our primary means of communication. Slack is a great i
 
 To join Slack, go to https://fairfield-dolan.slack.com/ and login with your @student.fairfield.edu account. You will probably want to download both the desktop and mobile apps so you can participate in the course wherever you are. Once you are on Slack itself, go through their [walkthrough](https://slack.com/help/articles/218080037-Getting-started-for-new-members) and [tutorial](https://slack.com/resources/slack-101/what-is-slack) if it's your first time.
 
-When you're ready, you may need to be added to the course channel for this course. The initial course roster will already be pre-loaded, so if you were on that, you should be able to already see the #data5405 channel. Go there for more info and next steps. If you do not see that channel, please send a direct message on Slack to @Yue Pu telling her that you need to be added to the `#buan5405` channel.
+When you're ready, you may need to be added to the course channel for this course. The initial course roster will already be pre-loaded, so if you were on that, you should be able to already see the `#data5405` channel. Go there for more info and next steps. If you do not see that channel, please send a direct message on Slack to @Yue Pu telling her that you need to be added to the `#data5405` channel.
 
 Some basic Slack etiquette:
 1.  Whenever possible, try to respond within a thread, or if it is a top-level message, start a new thread to respond (it's the little cartoon speech bubble looking icon between the add-emoji and share-message buttons).
