@@ -24,7 +24,7 @@ Fairfield Dolan, Room 205E
 Email: chuntley@fairfield.edu (please use Slack if possible; see below)
 
 ## Office Hours
-  * We will have four (optional but *highly* recommended) coding workshops, as indicated in the course schedule. Zoom links will posted in the class Slack channel.
+  * We will have four (ungraded but *highly* recommended) coding workshops, as indicated in the course schedule. Zoom links will posted in the class Slack channel.
   * Other times are by appointment only. However, use the class Slack channel for general inquiries or to schedule Zoom calls.   
 
 ## Resources
