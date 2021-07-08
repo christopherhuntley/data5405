@@ -133,9 +133,9 @@ After scaling, the expected grade distribution is approximately:
 |      | Lesson 8: Lists                  |  July 20       | August 7  |
 |      | **_Quiz 3_**                           | August 8 | August 9  |
 |      | **_Workshop 3_ @6:30pm** | | August 10 |
-|      | Reading: Py4E Chapter 9          |         | August 7  |
-|      | DataCamp: Dictionaries -- the root of Python | | August 7|
-|      | Lesson 9: Dicts                  |   July 20      | August 8  |
+|      | Reading: Py4E Chapter 9          |         | August 9  |
+|      | DataCamp: Dictionaries -- the root of Python | | August 10|
+|      | Lesson 9: Dicts                  |   July 20      | August 11  |
 |      | Reading: Py4E Chapter 10         |         | August 14  |
 |      | Lesson 10: Tuples                |   July 20       | August 15 |
 |      | **_Quiz 4_**                           | August 15 | August 16|
