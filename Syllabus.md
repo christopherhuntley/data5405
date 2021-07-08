@@ -139,12 +139,12 @@ After scaling, the expected grade distribution is approximately:
 | **4**    | **Final Project**                |  August 14        |  August 22  |
 |      | **_Code Submitted via Google Classroom_**        |          | August 21|
 |      | **_Walkthrough_**        |          | August 22 | 
-| **(Optional)**    | **Pandas / Preview of DATA 6505**     |          |         |
-|      | DataCamp: Data ingestion & inspection |              | August 12|
-|      | Lesson 11: pandas  Series and DataFrames   | July 27  | August 12|
-|      | DataCamp:  Exploratory Data Analysis    |          | August 12|
-|      | DataCamp:  Time Series in pandas    |          | August 18|
-|      | Lesson 12: Odds and Ends     | July 27  | August 18|
+| **(Optional)**    | **Pandas / Preview of DATA 6505**     |  August 2        |   September 7     |
+|      | DataCamp: Data ingestion & inspection |              | |
+|      | Lesson 11: pandas  Series and DataFrames   |  | |
+|      | DataCamp:  Exploratory Data Analysis    |          | |
+|      | DataCamp:  Time Series in pandas    |          | |
+|      | Lesson 12: Odds and Ends     |   |  |
 |      | Tutorial: Time Series Analysis in Pandas
 
 
