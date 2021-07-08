@@ -33,7 +33,7 @@ Email: chuntley@fairfield.edu (please use Slack if possible; see below)
 * **Software:** [Google Colab](https://colab.research.google.com/) (programming environment) and Google Drive (https://drive.google.com) (collaborative work) using your @student.fairfield.edu account.
 * **Hardware:** While the software tools are online, you may eventually want a professional-grade computer for subsequent analytics courses. Ask on Slack for suggestions.    
 * **Websites:**  
-    * Class documents (including this syllabus) are in [Dr. Huntley's GitHub repository](https://github.com/christopherhuntley/buan5405-docs).
+    * Class documents (including this syllabus) are in [Dr. Huntley's GitHub repository](https://github.com/christopherhuntley/data5405).
     * Programming assignments are posted and managed in Googgle Classroom.
     * Class communications will be via [Slack at fairfield-dolan.slack.com](Slack.md). 
     * [DataCamp](https://datacamp.com) exercises will be used to complement the class lessons.
