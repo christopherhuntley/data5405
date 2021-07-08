@@ -120,7 +120,7 @@ After scaling, the expected grade distribution is approximately:
 |      | DataCamp: Functions and Packages |         | July 23  |
 |      | Reading: Py4E Chapter 5          |         | July 25  |
 |      | Lesson 5: Iteration              |  July 18       | July 25  |
-|      | **_Quiz 2_**                           | July 25 | July 26  |
+|      | **_Quiz 2_**                           | July 25 | July 26  ||
 | **3**    | **Data Structures**              |         |          |
 |      | Reading: Py4E Chapter 6          |         | July 28  |
 |      | Lesson 6: Strings                |  July 20       | July 28  |
@@ -130,22 +130,23 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 8          |         | August 1  |
 |      | Lesson 8: Lists                  |  July 20       | August 2  |
 |      | **_Quiz 3_**                           | August 2 | August 3  |
-|      | Reading: Py4E Chapter 9          |         | August 6  |
-|      | DataCamp: Dictionaries -- the root of Python | | August 6|
-|      | Lesson 9: Dicts                  |   July 20      | August 6  |
-|      | Reading: Py4E Chapter 10         |         | August 8  |
-|      | Lesson 10: Tuples                |   July 20       | August 8 |
-|      | **_Quiz 4_**                           | August 8 | August 9|
-| **4**    | **Advanced Data Structures**     |          |         |
+|      | Reading: Py4E Chapter 9          |         | August 7  |
+|      | DataCamp: Dictionaries -- the root of Python | | August 7|
+|      | Lesson 9: Dicts                  |   July 20      | August 8  |
+|      | Reading: Py4E Chapter 10         |         | August 14  |
+|      | Lesson 10: Tuples                |   July 20       | August 15 |
+|      | **_Quiz 4_**                           | August 15 | August 16|
+| **4**    | **Final Project**                |  August 14        |  August 22  |
+|      | **_Code Submitted via Google Classroom_**        |          | August 21|
+|      | **_Walkthrough_**        |          | August 22 | 
+| **(Optional)**    | **Pandas / Preview of DATA 6505**     |          |         |
 |      | DataCamp: Data ingestion & inspection |              | August 12|
 |      | Lesson 11: pandas  Series and DataFrames   | July 27  | August 12|
 |      | DataCamp:  Exploratory Data Analysis    |          | August 12|
 |      | DataCamp:  Time Series in pandas    |          | August 18|
 |      | Lesson 12: Odds and Ends     | July 27  | August 18|
-|      | **_Quiz 5_ (with live code)**                           | August 11 | August 15 |
-| **5**    | **Final Project**                |  August 15        |  August 18  |
-|      | **_Code Submitted via Google Classroom_**        |          | August 18|
-|      | **_Walkthrough_**        |          | August 20 | 
+|      | Tutorial: Time Series Analysis in Pandas
+
 
 
 
