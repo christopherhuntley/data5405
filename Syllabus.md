@@ -144,7 +144,7 @@ After scaling, the expected grade distribution is approximately:
 |      | _Code Submitted via Google Classroom_       |          | August 21|
 |      | _Walkthrough_        |          | August 22 | 
 |      | **_FINAL COURSE GRADE SUBMITTED at 5pm_** | | August 23 |
-| **(Optional)**    | **Pandas / Preview of DATA 6505**     |  August 2        |   September 7     |
+| **(Optional)**    | **Preview of DATA 6505**     |  August 2        |   September 7     |
 |      | DataCamp: Data ingestion & inspection |              | |
 |      | Lesson 11: pandas  Series and DataFrames   |  | |
 |      | DataCamp:  Exploratory Data Analysis    |          | |
