@@ -69,7 +69,7 @@ This is a graduate class intended for aspiring *professionals*:
 ### Professionalism (20% of Course Grade)
 Professionals get the job done. As you progress through the course, you will be asked to complete various DataCamp tutorials, challenge exercises, quizzes, and other hands-on work. **Please complete all assignments on time, as specified, using the resources above to the best of your ability.** 
 ### Quizzes (50% of Course Grade)
-There will be five quizzes, with the lowest grade dropped from your quiz average. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though you may take longer if needed. **Quizzes will be graded on the dates given below, after which missing submissions will be assigned a score of 0. After the second missed quiz, the maximum class grade is a B-.** If you have a conflict with a quiz date, you may arrange to *take the quiz early*. 
+There will be four quizzes. They will be given on the days shown in the attached schedule of classes. Quizzes are closed book and closed notes. They are designed to last about 25 minutes, though you may take longer if needed. **Quizzes will be graded within 48 hours, after which missing submissions will be assigned a score of 0.** If you have a conflict with a quiz date, you may arrange to *take the quiz early*. 
 ### Final Project (30% of Course Grade)
 The final project is meant to be a demonstration that you are ready for the Python for Analytics course. 
 ### Grading Scale
