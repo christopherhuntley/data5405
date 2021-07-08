@@ -111,7 +111,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Lesson 2: Basic Computation      |  July 8      | July 18  |
 |      | Datacamp: Python Basics |         | July 18  |
 |      | **_Quiz 1_**                           | July 18 | July 19  |
-|      | Workshop 1 | | July 20 |
+|      | **_Workshop 1_** | | July 20 |
 | **2**    | **Structured Logic**             |         |          |
 |      | Reading: Py4E Chapter 3          |         | July 21  |
 |      | Lesson 3: Conditional Execution  |  July 12      | July 21  |
@@ -122,7 +122,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 5          |         | July 25  |
 |      | Lesson 5: Iteration              |  July 18       | July 25  |
 |      | **_Quiz 2_**                     | July 25 | July 26  ||
-|      | Workshop 2 | | July 28 |
+|      | **_Workshop 2_** | | July 28 |
 | **3**    | **Data Structures**              |         |          |
 |      | Reading: Py4E Chapter 6          |         | July 29  |
 |      | Lesson 6: Strings                |  July 20       | July 29  |
@@ -132,13 +132,14 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 8          |         | August 2  |
 |      | Lesson 8: Lists                  |  July 20       | August 7  |
 |      | **_Quiz 3_**                           | August 8 | August 9  |
-|      | Workshop 3 | | August 10 |
+|      | **_Workshop 3_** | | August 10 |
 |      | Reading: Py4E Chapter 9          |         | August 7  |
 |      | DataCamp: Dictionaries -- the root of Python | | August 7|
 |      | Lesson 9: Dicts                  |   July 20      | August 8  |
 |      | Reading: Py4E Chapter 10         |         | August 14  |
 |      | Lesson 10: Tuples                |   July 20       | August 15 |
 |      | **_Quiz 4_**                           | August 15 | August 16|
+|      | **_Workshop 4_** | | August 16 |
 | **4**    | **Final Project**                |  August 14        |  August 22  |
 |      | **_Code Submitted via Google Classroom_**        |          | August 21|
 |      | **_Walkthrough_**        |          | August 22 | 
