@@ -42,7 +42,7 @@ Email: chuntley@fairfield.edu (please use Slack if possible; see below)
 ## Student Expectations
 This is a graduate class intended for aspiring *professionals*:    
 
-* **Set aside at least 10 hours per week for completing your assignments.** Consider yourself fortunate if you can complete it faster than that, but also make sure that you are not missing something important. Then use the remaining time to study on your own. 
+* **Set aside at least 12 hours per week for completing your assignments.** Consider yourself fortunate if you can complete it faster than that, but also make sure that you are not missing something important. Then use the remaining time to study on your own. 
 * **Do your own work.** There is no professional benefit to pretending that somebody else's work is your own. We will follow the university's academic honesty policy to the letter. 
   > It is expected that all work done for this class will be in strict compliance with the principles of academic honesty and integrity, as outlined in the Student Catalog. Cheating, plagiarism, copying, or dishonesty of any kind is not acceptable and will result in a zero for the exam or assignment and possible a failing grade for the class, and/or expulsion from the program.
 
