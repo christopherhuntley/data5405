@@ -111,6 +111,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Lesson 2: Basic Computation      |  July 8      | July 18  |
 |      | Datacamp: Python Basics |         | July 18  |
 |      | **_Quiz 1_**                           | July 18 | July 19  |
+|      | Workshop 1 | | July 20 |
 | **2**    | **Structured Logic**             |         |          |
 |      | Reading: Py4E Chapter 3          |         | July 21  |
 |      | Lesson 3: Conditional Execution  |  July 12      | July 21  |
@@ -120,16 +121,18 @@ After scaling, the expected grade distribution is approximately:
 |      | DataCamp: Functions and Packages |         | July 23  |
 |      | Reading: Py4E Chapter 5          |         | July 25  |
 |      | Lesson 5: Iteration              |  July 18       | July 25  |
-|      | **_Quiz 2_**                           | July 25 | July 26  ||
+|      | **_Quiz 2_**                     | July 25 | July 26  ||
+|      | Workshop 2 | | July 28 |
 | **3**    | **Data Structures**              |         |          |
-|      | Reading: Py4E Chapter 6          |         | July 28  |
-|      | Lesson 6: Strings                |  July 20       | July 28  |
-|      | Reading: Py4E Chapter 7          |         | July 29  |
-|      | Lesson 7: Files                  |  July 20       | July 30  |
-|      | DataCamp: Fundamental data types |         | July 30  |
-|      | Reading: Py4E Chapter 8          |         | August 1  |
-|      | Lesson 8: Lists                  |  July 20       | August 2  |
-|      | **_Quiz 3_**                           | August 2 | August 3  |
+|      | Reading: Py4E Chapter 6          |         | July 29  |
+|      | Lesson 6: Strings                |  July 20       | July 29  |
+|      | Reading: Py4E Chapter 7          |         | July 30  |
+|      | Lesson 7: Files                  |  July 20       | Jul 31  |
+|      | DataCamp: Fundamental data types |         | August 1  |
+|      | Reading: Py4E Chapter 8          |         | August 2  |
+|      | Lesson 8: Lists                  |  July 20       | August 7  |
+|      | **_Quiz 3_**                           | August 8 | August 9  |
+|      | Workshop 3 | | August 10 |
 |      | Reading: Py4E Chapter 9          |         | August 7  |
 |      | DataCamp: Dictionaries -- the root of Python | | August 7|
 |      | Lesson 9: Dicts                  |   July 20      | August 8  |
