@@ -122,7 +122,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 5          |         | July 25  |
 |      | Lesson 5: Iteration              |  July 18       | July 25  |
 |      | **_Quiz 2_**                     | July 25 | July 26  ||
-|      | **_Workshop 2_ @6:30pm** | | July 28 |
+|      | **_Workshop 2_ @6:30pm** | | July 27 |
 | **3**    | **Data Structures**              |         |          |
 |      | Reading: Py4E Chapter 6          |         | July 29  |
 |      | Lesson 6: Strings                |  July 20       | July 29  |
