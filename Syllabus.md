@@ -106,7 +106,7 @@ After scaling, the expected grade distribution is approximately:
 |      | [Getting Started](https://christopherhuntley.github.io/data5405/)                  | July 6  | July 12   |
 |      | Lesson 0: Course Introduction    |  July 7       | July 12  |
 | **1**    | **Getting Started**              |         |          |
-|      | Reading: Py4E Chapters 1 & 2          |         | July 12  |
+|      | Reading: Py4E Chapters 1 & 2          |         | July 18  |
 |      | Lesson 1: Python Preliminaries   |  July 8      | July 15  |
 |      | Lesson 2: Basic Computation      |  July 8      | July 18  |
 |      | Datacamp: Python Basics |         | July 18  |
