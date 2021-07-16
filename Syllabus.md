@@ -129,7 +129,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 7          |         | July 30  |
 |      | Lesson 7: Files                  |  July 20       | Jul 31  |
 |      | DataCamp: Fundamental data types |         | August 1  |
-|      | Reading: Py4E Chapter 8          |         | August 2  |
+|      | Reading: Py4E Chapter 8          |         | August 5  |
 |      | Lesson 8: Lists                  |  July 20       | August 7  |
 |      | **_Quiz 3_**                           | August 8 | August 9  |
 |      | **_Workshop 3_ @6:30pm** | | August 10 |
