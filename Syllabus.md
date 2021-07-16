@@ -140,7 +140,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Lesson 10: Tuples                |   July 20       | August 15 |
 |      | **_Quiz 4_**                           | August 15 | August 16|
 |      | **_Workshop 4_ @6:30pm** | | August 16 |
-| **4**    | **Final Project (live code)**                |  August 16        |  August 22  |
+| **4**    | **Final Project (live code)**                |  August 7        |  August 22  |
 |      | _Code Submitted via Google Classroom_       |          | August 21|
 |      | _Walkthrough_        |          | August 22 | 
 |      | **_FINAL COURSE GRADE SUBMITTED @5pm_** | | August 23 |
