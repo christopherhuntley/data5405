@@ -1,4 +1,4 @@
-# BUAN 5405 Course Materials
+# DATA 5405 Course Materials
 
 All docs and lessons are continual works in progress. 
 
