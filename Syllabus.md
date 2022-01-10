@@ -101,8 +101,7 @@ After scaling, the expected grade distribution is approximately:
 | Module | Topic/Assignment                 | Release | Deadline |
 | :--: |----------------------------------|-------: |--------: |
 | **0**    | **Course Onboarding**            |         |          |
-|      | Getting Started                  | Jan 19  | Jan 25   |
-|      | Lesson 0: Course Introduction    |  Jan 11       | Jan 19   |
+|      | Lesson 0: Getting Started    |  Jan 11       | Jan 19   |
 | **1**    | **Getting Started**              |         |          |
 |      | Reading: Py4E Chapters 1 & 2          |         | Jan 19  |
 |      | Lesson 1: Python Preliminaries   |  Jan 11      | Jan 19  |
