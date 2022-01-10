@@ -108,7 +108,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Lesson 1: Python Preliminaries   |  Jan 11      | Jan 19  |
 |      | Lesson 2: Basic Computation      |  Jan 11      | Jan 26  |
 |      | Datacamp: Python Basics |         | Jan 26  |
-|      | **_Quiz 1_**                           | Jan 30 | Jan 31  |
+|      | **_Quiz 1_**                           | **Jan 30** | **Jan 31**  |
 | **2**    | **Structured Logic**             |         |          |
 |      | Reading: Py4E Chapter 3          |         | Feb 2   |
 |      | Lesson 3: Conditional Execution  |  Jan 26      | Feb 2  |
@@ -118,7 +118,7 @@ After scaling, the expected grade distribution is approximately:
 |      | DataCamp: Functions and Packages |         | Feb 9  |
 |      | Reading: Py4E Chapter 5          |         | Feb 16  |
 |      | Lesson 5: Iteration              |  Jan 26       | Feb 16  |
-|      | **_Quiz 2_**                           | Feb 20 | Feb 21  |
+|      | **_Quiz 2_**                           | **Feb 20** | **Feb 21**  |
 | **3**    | **Data Structures**              |         |          |
 |      | Reading: Py4E Chapter 6          |         | Feb 23  |
 |      | Lesson 6: Strings                |  Feb 2       | Feb 23  |
@@ -127,20 +127,20 @@ After scaling, the expected grade distribution is approximately:
 |      | DataCamp: Fundamental data types |         | Mar 9  |
 |      | Reading: Py4E Chapter 8          |         | Mar 9  |
 |      | Lesson 8: Lists                  |  Feb 2       | Mar 9 |
-|      | **_Quiz 3_**                           | Mar 20 | Mar 21  |
+|      | **_Quiz 3_**                           | **Mar 20** | **Mar 21**  |
 |      | Reading: Py4E Chapter 9          |         | Mar 23  |
 |      | DataCamp: Dictionaries -- the root of Python | | Mar 23|
 |      | Lesson 9: Dicts                  |   Mar 1      | Mar 23  |
 |      | Reading: Py4E Chapter 10         |         | Mar 30  |
 |      | Lesson 10: Tuples                |   Mar 1       | Mar 30 |
-|      | **_Quiz 4_**                           | Apr 3 | Apr 4 |
-|      | **_Quiz 5_ Mini-Project**                           | Apr 4 | Apr 10|
+|      | **_Quiz 4_**                           | **Apr 3** | **Apr 4** |
+|      | **_Quiz 5_ Mini-Project**                           | **Apr 4** | **Apr 10**|
 | **4**    | **Advanced Data Structures**     |          |         |
 |      | DataCamp: Data ingestion & inspection |              | Apr 13|
 |      | Lesson 11: pandas  Series and DataFrames   | Apr 3  | Apr 13|
 |      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
 |      | DataCamp:  Time Series in pandas    |          | Apr 26|
 |      | Lesson 12: Odds and Ends     | Apr 3  | Apr 23|
-| **5**    | **Final Project (TSA in Pandas)**                |  May 6        |  May 11  |
+| **5**    | **Final Project (TSA in Pandas)**                |  **May 6**        |  **May 11**  |
 |      | **_Code Submitted via Google Classroom_**        |          | May 10|
 |      | **_Walkthrough on Zoom_**        |          | May 11 | 
