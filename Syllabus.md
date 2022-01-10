@@ -24,8 +24,7 @@ Fairfield Dolan, Room 205E
 Email: chuntley@fairfield.edu (please use Slack if possible; see below)
 
 ## Office Hours
-  * We will have three (optional but *highly* recommended) Sunday night workshops, as indicated in the course schedule. Zoom links will posted in the class Slack channel.
-  * Other times are by appointment only. However, use the class Slack channel for general inquiries or to schedule Zoom calls.   
+  Office hours are by appointment, bookable at https://calendly.com/christopher-huntley    
 
 ## Resources
 * **Textbook:** Python for Everybody: Exploring Data in Python 3, by Charles R. Severance, available [here](https://www.py4e.com/). The PDF, HTML, and Kindle versions are free.
@@ -145,6 +144,3 @@ After scaling, the expected grade distribution is approximately:
 | **5**    | **Final Project (TSA in Pandas)**                |  May 6        |  May 11  |
 |      | **_Code Submitted via Google Classroom_**        |          | May 10|
 |      | **_Walkthrough on Zoom_**        |          | May 11 | 
-
-
-
