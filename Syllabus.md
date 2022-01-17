@@ -135,11 +135,11 @@ After scaling, the expected grade distribution is approximately:
 |      | **_Quiz 4_**                           | **Apr 3** | **Apr 4** |
 |      | **_Quiz 5_ Mini-Project**                           | **Apr 4** | **Apr 10**|
 | **4**    | **Advanced Data Structures**     |          |         |
-|      | DataCamp: Data ingestion & inspection |              | Apr 13|
-|      | Lesson 11: pandas  Series and DataFrames   | Apr 3  | Apr 13|
-|      | DataCamp:  Exploratory Data Analysis    |          | Apr 26|
-|      | DataCamp:  Time Series in pandas    |          | Apr 26|
+|      | DataCamp:  Dictionaries & pandas    |          | Apr 13|
+|      | Lesson 11: pandas Series and DataFrames   | Apr 3  | Apr 13|
+|      | DataCamp: Importing Data from Flat Files |              | Apr 13|
 |      | Lesson 12: Odds and Ends     | Apr 3  | Apr 23|
+|      | DataCamp:  Manupulating Time Series Data in pandas    |          | Apr 26|
 | **5**    | **Final Project (TSA in Pandas)**                |  **May 6**        |  **May 11**  |
 |      | **_Code Submitted via Google Classroom_**        |          | May 10|
 |      | **_Walkthrough on Zoom_**        |          | May 11 | 
