@@ -18,13 +18,17 @@ This course is an introduction to Python, with an emphasis on general programmin
 * To introduce third-party Python libraries like Pandas and Matplotlib.
 * To develop proficiency with a professional-level data science toolkit (Jupyter, GitHub, etc.)
 
-## Instructor
+## Instructors
 Christopher L. Huntley  
 Fairfield Dolan, Room 205E  
-Email: chuntley@fairfield.edu (please use Slack if possible; see below)
+
+Jie Tao  
+Fairfield Dolan, Room 347
 
 ## Office Hours
-  Office hours are by appointment, bookable at https://calendly.com/christopher-huntley    
+  Office hours are by appointment, bookable at 
+  - [Chris Huntley](https://calendly.com/christopher-huntley/data-5405-office-hours) 
+  - [Jie Tao](https://calendly.com/jtao-4/office-hours)
 
 ## Resources
 * **Textbook:** Python for Everybody: Exploring Data in Python 3, by Charles R. Severance, available [here](https://www.py4e.com/). The PDF, HTML, and Kindle versions are free.
