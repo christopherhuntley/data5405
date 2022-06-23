@@ -142,7 +142,7 @@ After scaling, the expected grade distribution is approximately:
 |      | Reading: Py4E Chapter 10         |         | Aug 9  |
 |      | Lesson 10: Tuples                |   Jul 21       | Aug 9 |
 |      | **_Quiz 4_**                           | **Aug 12** | **Aug 13** |
-| **4**| **_Final Projects_**                           | **Aug 10** | **Aug 17**|
+| **4**| **_Final Projects_**                           | **Aug 10** | **Aug 18**|
 |      | **_Code Submitted via Google Classroom_**        |          | Aug 17|
 |      | **_Walkthrough on Zoom_**        |          | Aug 18 |
 | **5** | **Advanced Data Structures**     |   OPTIONAL       |         |
