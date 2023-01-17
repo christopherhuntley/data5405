@@ -135,7 +135,7 @@ After scaling, the expected grade distribution is approximately:
 |      | **_Quiz 4_**                           | **April 10** | **April 11** |
 |      | **_Project 1: Challenge Problems_** | **April 12** | **April 18** |
 |      | **Fairfield StartUp Showcase;** you are expected to volunteer | | April 18 5-9pm|  
-| **5** | **Advanced Data Structures**     |          |         |
+| **4** | **Pandas & Matplotlib**     |          |         |
 |      | Lesson 11: pandas Series and DataFrames   | April 7 | April 25|
 |      | DataCamp:  Loading data in pandas    |          | April 25|
 |      | DataCamp: Importing Data from Flat Files |              | April 25|
